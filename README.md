@@ -1,7 +1,7 @@
 # Pi Project
 IN DEVELOPMENT
 This web based TTS, SST & translation application was part of an university course for python development. Intended for usage on a raspberry pi or other mobile devices (mobile/table first experience)
-This repository contains the frontend part of the application. The backend is accessible on [GitHub](https://github.com/paul-costa/pi-project).
+This repository contains the backend part of the application. The frontend is accessible on [GitHub](https://github.com/paul-costa/pi-project-angular).
 
 ------
 
@@ -31,7 +31,3 @@ This repository contains the frontend part of the application. The backend is ac
 * googletrans
 * os
 * shutil
-
-------
-
-### Frontend: Packages/Libraries
