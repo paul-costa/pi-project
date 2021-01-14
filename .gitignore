@@ -1,0 +1,10 @@
+__pycache__/
+environment/
+
+pi-project-angular/
+
+recordings/*
+!recordings/.gitkeep
+
+translations/*
+!translations/.gitkeep
